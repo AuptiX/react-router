@@ -1,5 +1,8 @@
 # React Router [![Travis][build-badge]][build] [![npm package][npm-badge]][npm]
 
+## IMPORTANT
+This repository was forked as part of AX-1450 to upgrade to react 16. It was forked due to peerDependency react version being too rigid
+
 <img src="/logo/vertical@2x.png" height="150"/>
 
 React Router is a complete routing library for [React](https://facebook.github.io/react).
